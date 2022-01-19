@@ -1,2 +1,2 @@
 # MINESWEEPER-GAME
-The project I have made by just using basic DSA.
+The project I have made by using DSA.
